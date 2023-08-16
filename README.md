@@ -3,4 +3,6 @@
 ### - Typscript
 ### - Context-api
 ### - Tailwind css
+### - Axios
+
 # Application under construction...
